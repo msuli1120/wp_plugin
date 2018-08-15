@@ -1,0 +1,16 @@
+{
+    "name": "xing/learn-wordpress",
+    "description": "Learn wordpress plugins",
+    "type": "project",
+    "license": "GPLv2 or later",
+    "authors": [
+        {
+            "name": "Xing Li",
+            "email": "ljlx1120@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"LW\\": "./includes"}
+    }
+}
